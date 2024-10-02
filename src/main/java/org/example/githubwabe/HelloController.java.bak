@@ -12,10 +12,13 @@ public class HelloController {
         welcomeText.setText("Welcome to JavaFX Application!");
     }
 
+<<<<<<< HEAD
 @FXML
 protected void onFuckThisButtonClick() {
     welcomeText.setText("fuck this fr!");
 }
+=======
     @FXML
     protected void onJoeMomButtonClick() {welcomeText.setText("THIS IS JOES !!!"); }
+>>>>>>> 0d4e61ec9aa7475edcfdb7f6aeb5690a5d5c7817
 }

@@ -13,6 +13,9 @@
 
     <Label fx:id="welcomeText"/>
     <Button text="Hello!" onAction="#onHelloButtonClick"/>
+<<<<<<< HEAD
     <Button text="fuck this!" onAction="#onFuckThisButtonClick"/>
-	<Button text="Joe mom!" onAction="#onJoeMomButtonClick"/>
+=======
+    <Button text="Joe mom!" onAction="#onJoeMomButtonClick"/>
+>>>>>>> 0d4e61ec9aa7475edcfdb7f6aeb5690a5d5c7817
 </VBox>
